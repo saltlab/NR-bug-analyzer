@@ -1,4 +1,4 @@
-MetricExtractor
+NR-Bug-Analyzer
 ========
 
 We built an analyzer tool, NR-Bug-Analyzer, to calculate a set of metrics. It 1) takes as input XML files, extracted from the filter/search results of our queries, 2) creates a set of new XML files per each bug report, 3) parses the values of needed fields in each bug report, 4) measures the metrics and 5) saves them all in a .csv file as an output. We used common fields in Bugzilla and Jira repositories (More details are available in the paper).
