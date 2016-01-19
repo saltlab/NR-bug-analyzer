@@ -7,3 +7,8 @@ Also, The data retrieved from bug repositories does not contain any information 
 
 The Data folder contains the detailed search queries used in our study (Queries.rtf), as well as the qualitative and quantitative results of each open source repositories (Firefox, Eclipse, Moodle, Wiki, Firefox-Andriod).
 
+
+Paper
+-----
+
+The result of this study is published as a research paper at MSR 2014. It is titled <a href="http://salt.ece.ubc.ca/publications/docs/mona-msr14.pdf">Works For Me! Characterizing Non-Reproducible Bug Reports</a> and is available as a PDF. 
